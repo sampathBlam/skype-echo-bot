@@ -1,2 +1,4 @@
 # skype-echo-bot
-A Skype Echo Bot
+A Skype Echo Bot which runs on localhost
+
+
